@@ -1,6 +1,6 @@
 # Full scenario
 
-## Stage 1 : Outbreak - A mysterious illness in riverdale
+## Phase 1 : Outbreak - A mysterious illness in riverdale
 
 &#x1F4CD; *February 28, 2025 - Riverdale General Hospital, Newlandia*
 
@@ -24,7 +24,7 @@ After discussing the points above, decide what are the minimum required and reco
 Pick two fields and use EBI OLS to look up appropriate enums for this.
 
 
-## Stage 2: Environmental Surveillance – A Lead in the Sewers
+## Phase 2: Environmental Surveillance – A Lead in the Sewers
 
 &#x1F4CD; *March 5, 2025 – Riverdale, Newlandia*
 
@@ -46,7 +46,7 @@ At this stage, no specific pathogen is suspected, so broad sequencing is perform
 After discussing the points above, decide which additional fields may be required in environmental surveillance. Consider the 'Bioinformatics and QC metrics', 'Taxonomic information' and 'Lineage and Clade information' in existing specifications.
 
 
-## Stage 3: The Breakthrough – Identification of **Griffithsi E**
+## Phase 3: The Breakthrough – Identification of **Griffithsi E**
 
 &#x1F4CD; *March 12, 2025 – Newlandia Genomics Institute*
 
