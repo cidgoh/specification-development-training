@@ -1,4 +1,4 @@
-# Mock scenatio
+# Full scenario
 
 ## Stage 1 : Outbreak - A mysterious illness in riverdale
 
