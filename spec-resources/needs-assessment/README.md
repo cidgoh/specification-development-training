@@ -14,7 +14,7 @@ To systematically identify:
 ## Files
 - **TEMPLATE Data Needs Assessment Questionnaire.pdf**: A structured template for identifying contextual data requirements across sampling, sequencing, and data management life cycle.
 - **TEMPLATE Data Needs Assessment Minutes.pdf**: A minutes-style document for capturing responses during stakeholder interviews.
-- *(optional)* **use-case-summary.pdf**: Example synthesized outputs from one or more interviews.
+
 
 ## Usage
 Use these templates during interviews or workshops with project stakeholders to inform spec development and iteration. These inputs can later be translated into structured requirements and prioritized fields.
