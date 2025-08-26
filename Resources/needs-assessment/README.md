@@ -9,7 +9,7 @@ To systematically identify:
 - Existing infrastructure, standards, and workflows
 - Challenges, gaps, and future needs
 
-![Data Needs assessment](https://github.com/cbarcl01/specification-development-training/blob/main/spec-resources/needs-assessment/dataNeedsAssessmentVisual.png)
+![Data Needs assessment](https://github.com/cbarcl01/specification-development-training/blob/main/Resources/needs-assessment/dataNeedsAssessmentVisual.png)
 
 ## Files
 - **TEMPLATE Data Needs Assessment Questionnaire.pdf**: A structured template for identifying contextual data requirements across sampling, sequencing, and data management life cycle.
