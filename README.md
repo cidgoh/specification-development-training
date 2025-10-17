@@ -1,4 +1,4 @@
-# \# Data Standards Training Template
+# Data Standards Training Template
 
 
 
