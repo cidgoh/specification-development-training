@@ -6,7 +6,7 @@ Training-orientated repository for developing and publishing a modular, consensu
 
 
 
-This resource has been developed by Charlotte Barclay, Emma Griffiths and Rhiannon Cameron and was first implemented in the \[GRDI contextual data specification](https://github.com/cidgoh/GRDI\_AMR\_One\_Health).
+This resource has been developed by Charlotte Barclay, Emma Griffiths and Rhiannon Cameron and was first implemented in the [GRDI contextual data specification](https://github.com/cidgoh/GRDI\_AMR\_One\_Health).
 
 
 
