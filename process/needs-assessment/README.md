@@ -12,7 +12,7 @@ To systematically identify:
 - **Challenges** gaps, and future needs
 
 
-![Data Needs assessment](https://github.com/cbarcl01/specification-development-training/blob/main/Resources/needs-assessment/dataNeedsAssessmentVisual.png)
+![Data Needs assessment](https://github.com/cbarcl01/specification-development-training/blob/main/process/needs-assessment/dataNeedsAssessmentVisual.png)
 
 ## Files
 - **TEMPLATE Data Needs Assessment Extraction Sheet**
