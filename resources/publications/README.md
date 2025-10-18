@@ -19,8 +19,8 @@ The goal of this section is to:
 
 | **File / Resource** | **Description** | **Citation / Link** |
 |----------------------|-----------------|----------------------|
-| `2025_10-Simple-Rules-Data-Specification-Methodology.pdf` | Preprint describing 10 simple rules for the end-to-end process and ontology-based design principles. | [🔗 DOI / link pending] |
-| `2025_Fixing-the-plumbing_Building-interoperability-between-wastewater-genomic-surveillance-datasets-and-systems-using-the-PHA4GE-contextual-data-specification` | A contextual data specification for wastewater genomic surveillance and implementation. | [🔗 DOI / https://osf.io/preprints/osf/z79vk_v1] |
+| **2025_10-Simple-Rules-Data-Specification-Methodology.pdf** | Preprint describing 10 simple rules for the end-to-end process and ontology-based design principles. | [🔗 DOI / link pending] |
+| **2025_Fixing-the-plumbing_Building-interoperability-between-wastewater-genomic-surveillance-datasets-and-systems-using-the-PHA4GE-contextual-data-specification** | A contextual data specification for wastewater genomic surveillance and implementation. | [🔗 DOI / https://osf.io/preprints/osf/z79vk_v1] |
 
 ---
 
