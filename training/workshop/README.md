@@ -1,11 +1,12 @@
-# 🧩 Workshops
+# Workshops
 
-This directory contains **complete workshop packages** that demonstrate and teach the **data specification development process**.  
+This directory contains course-specific materials that demonstrate and  guide participants through the full **data specification development process**, from scoping and needs assessment to schema drafting and implementation. 
+ 
 Each package includes an agenda, learning objectives, slide decks, exercises, and facilitator/participant materials.
 
 ---
 
-## 🧭 Purpose
+## Purpose
 
 These workshops are designed to:
 - Provide **structured, interactive learning** aligned with the real-world process of building data specifications  
@@ -14,7 +15,7 @@ These workshops are designed to:
 
 ---
 
-## 🗂️ Structure Overview
+## Structure Overview
 
 | **Folder** | **Contents** | **Purpose** |
 |-------------|--------------|-------------|
@@ -24,7 +25,7 @@ These workshops are designed to:
 
 ---
 
-## 🧠 How to Use
+## How to Use
 
 1. Download or copy the materials from the relevant event folder.  
 2. Adapt the agenda and exercises to your time constraints or audience.  
@@ -32,8 +33,8 @@ These workshops are designed to:
 
 ---
 
-### 🧾 License
-All workshop materials are provided under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).  
+### License
+🧾 All workshop materials are provided under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).  
 Please attribute to *CIDGOH – Centre for Infectious Disease Genomics and One Health*.
 
 ---
