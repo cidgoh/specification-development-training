@@ -17,10 +17,10 @@ The remaining sessions follow the *10 Simple Rules* framework, focusing on:
 **Duration:** One day (interactive lectures + hands-on exercises).
 
 **Folder contents**
-- `agenda.pdf` – outline and timings.  
-- `slides/` – presentation decks for each session.  
-- `materials/` – facilitator and participant resources, including exercises.  
-- `evaluation/` – feedback forms and summary templates.
+- `PHA4GECon agenda.pdf` – outline and timings.  
+- `0. slides/` – presentation decks for all the sessions.  
+- `1. scope/` – facilitator and participant resources, including exercises for part 1 scoping and needs assessment.  
+- `2. cleaning data/` – facilitator and participant resources, including exercises for part 1 cleaning data and drafting a schema.
 
 This workshop bridges theory and practice—participants leave with a structured understanding of how to scope, design, implement, and test a contextual data specification.
 
