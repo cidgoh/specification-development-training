@@ -1,0 +1,118 @@
+UI Menu Label	Code Menu Label	Identifier	Level 1	Level 2	Level 3	Level 4	Level 5
+gene symbol menu	SARSCoV2GeneSymbolMenu	GENEPIO:0100151	E gene (orf4) [GENEPIO:0100151]				
+		GENEPIO:0100152	M gene (orf5) [GENEPIO:0100152]				
+		GENEPIO:0100153	N gene (orf9) [GENEPIO:0100153]				
+		GENEPIO:0100154	Spike gene (orf2) [GENEPIO:0100154]				
+		GENEPIO:0100155	orf1ab (rep) [GENEPIO:0100155]				
+		GENEPIO:0100156		orf1a (pp1a) [GENEPIO:0100156]			
+		GENEPIO:0100157			nsp11 [GENEPIO:0100157]		
+		GENEPIO:0100158		nsp1  [GENEPIO:0100158]			
+		GENEPIO:0100159		nsp2  [GENEPIO:0100159]			
+		GENEPIO:0100160		nsp3  [GENEPIO:0100160]			
+		GENEPIO:0100161		nsp4  [GENEPIO:0100161]			
+		GENEPIO:0100162		nsp5  [GENEPIO:0100162]			
+		GENEPIO:0100163		nsp6  [GENEPIO:0100163]			
+		GENEPIO:0100164		nsp7  [GENEPIO:0100164]			
+		GENEPIO:0100165		nsp8  [GENEPIO:0100165]			
+		GENEPIO:0100166		nsp9  [GENEPIO:0100166]			
+		GENEPIO:0100167		nsp10  [GENEPIO:0100167]			
+		GENEPIO:0100168		RdRp gene (nsp12) [GENEPIO:0100168]			
+		GENEPIO:0100169		hel gene (nsp13) [GENEPIO:0100169]			
+		GENEPIO:0100170		exoN gene (nsp14) [GENEPIO:0100170]			
+		GENEPIO:0100171		nsp15 [GENEPIO:0100171]			
+		GENEPIO:0100172		nsp16 [GENEPIO:0100172]			
+		GENEPIO:0100173	orf3a [GENEPIO:0100173]				
+		GENEPIO:0100174	orf3b [GENEPIO:0100174]				
+		GENEPIO:0100175	orf6 (ns6) [GENEPIO:0100175]				
+		GENEPIO:0100176	orf7a [GENEPIO:0100176]				
+		GENEPIO:0100177	orf7b (ns7b) [GENEPIO:0100177]				
+		GENEPIO:0100178	orf8 (ns8) [GENEPIO:0100178]				
+		GENEPIO:0100179	orf9b [GENEPIO:0100179]				
+		GENEPIO:0100180	orf9c [GENEPIO:0100180]				
+		GENEPIO:0100181	orf10 [GENEPIO:0100181]				
+		GENEPIO:0100182	orf14 [GENEPIO:0100182]				
+		GENEPIO:0100183	SARS-COV-2 5' UTR [GENEPIO:0100183]				
+		GENEPIO:0100860	midnight-bccdc-v3 [GENEPIO:0100860]				
+		GENEPIO:0100861	midnight-bccdc-v4 [GENEPIO:0100861]				
+		GENEPIO:0100862	midnight-ont-v3 [GENEPIO:0100862]				
+		GENEPIO:0100863	midnight-v1 [GENEPIO:0100863]				
+		GENEPIO:0100864	midnight-v2 [GENEPIO:0100864]				
+		GENEPIO:0100865	varskip-vsl1a [GENEPIO:0100865]				
+		GENEPIO:0100866	varskip-vss1a [GENEPIO:0100866]				
+		GENEPIO:0100867	varskip-vss2a [GENEPIO:0100867]				
+		GENEPIO:0100868	varskip-vss2b [GENEPIO:0100868]				
+							
+amr_agent_name menu	AmrAgentNameMenu	CHEBI:2637	Amikacin [CHEBI:2637]				
+		ARO:3003997	Amoxicillin-clavulanic acid [ARO:3003997]				
+		CHEBI:28971	Ampicillin [CHEBI:28971]				
+		CHEBI:2955	Azithromycin [CHEBI:2955]				
+		CHEBI:474053	Cefazolin [CHEBI:474053]				
+		CHEBI:478164	Cefepime [CHEBI:478164]				
+		CHEBI:204928	Cefotaxime [CHEBI:204928]				
+		ARO:3004710	Cefotaxime-clavulanic acid [ARO:3004710]				
+		CHEBI:209807	Cefoxitin [CHEBI:209807]				
+		CHEBI:3504	Cefpodoxime [CHEBI:3504]				
+		CHEBI:3508	Ceftazidime [CHEBI:3508]				
+		ARO:3004705	Ceftazidime-clavulanic acid [ARO:3004705]				
+		ARO:3004006	Ceftiofur [ARO:3004006]				
+		CHEBI:29007	Ceftriaxone [CHEBI:29007]				
+		NCIT:C62021	Cephalothin				
+		CHEBI:17698	Chloramphenicol				
+		CHEBI:100241	Ciprofloxacin				
+		CHEBI:3745	Clindamycin				
+		CHEBI:50845	Doxycycline				
+		CHEBI:35720	Enrofloxacin				
+		CHEBI:48923	Erythromycin				
+		CHEBI:87185	Florfenicol				
+		CHEBI:17833	Gentamicin				
+		CHEBI:471744	Imipenem				
+		CHEBI:6104	Kanamycin				
+		CHEBI:63598	Levofloxacin				
+		CHEBI:63607	Linezolid				
+		CHEBI:43968	Meropenem				
+		CHEBI:100147	Nalidixic acid				
+		CHEBI:7507	Neomycin				
+		CHEBI:71415	Nitrofurantoin				
+		CHEBI:100246	Norfloxacin				
+		CHEBI:138856	Oxolinic acid				
+		CHEBI:27701	Oxytetracycline				
+		CHEBI:17334	Penicillin				
+		CHEBI:8232	Piperacillin				
+		ARO:3004021	Piperacillin-tazobactam				
+		ARO:3000454	Polymyxin B				
+		ARO:3004022	Quinupristin-dalfopristin				
+		CHEBI:17076	Streptomycin				
+		CHEBI:102484	Sulfisoxazole				
+		ARO:0000057	Telithromycin				
+		CHEBI:27902	Tetracycline				
+		CHEBI:149836	Tigecycline				
+		ARO:3004024	Trimethoprim-sulfamethoxazole				
+							
+AMR_laboratory_typing_method menu	AmrLaboratoryTypingMethodMenu	NCIT:85595	Agar diffusion [NCIT:85595]				
+		NCIT:85596		Antimicrobial gradient (E-test) [NCIT:85596]			
+		ARO:3004411	Agar dilution [ARO:3004411]				
+		ARO:3004397	Broth dilution [ARO:3004397]				
+							
+AMR_laboratory_typing_platform menu	AmrLaboratoryTypingPlatformMenu	ARO:3007569	BIOMIC Microbiology System [ARO:3007569]				
+		ARO:3004400	Microscan [ARO:3004400]				
+		ARO:3004401	Phoenix [ARO:3004401]				
+		ARO:3004402	Sensititre [ARO:3004402]				
+		ARO:3004403	Vitek System [ARO:3004403]				
+							
+AMR_measurement_sign menu	AmrMeasurementSignMenu	GENEPIO:0001002	less than (<) [GENEPIO:0001002]				
+		GENEPIO:0001003	less than or equal to (<=) [GENEPIO:0001003]				
+		GENEPIO:0001004	equal to (==) [GENEPIO:0001004]				
+		GENEPIO:0001006	greater than (>) [GENEPIO:0001006]				
+		GENEPIO:0001005	greater than or equal to (>=) [GENEPIO:0001005]				
+							
+AMR_measurement_units menu	AmrMeasurementUnitsMenu	UO:0000273	milligram per litre (mg/L) [UO:0000273]				
+		UO:0000016	millimetre (mm) [UO:0000016]				
+		UO:0000274	microgram per millilitre (ug/mL) [UO:0000274]				
+							
+AMR_phenotype menu	AmrPhenotypeMenu	GENEPIO:0002040	Antibiotic resistance not defined [GENEPIO:0002040]				
+		ARO:3004300		Intermediate antimicrobial phenotype [ARO:3004300]			
+		GENEPIO:0100585		Indeterminate antimicrobial phenotype [GENEPIO:0100585]			
+		ARO:3004303	Nonsusceptible antimicrobial phenotype [ARO:3004303]				
+		ARO:3004301	Resistant antimicrobial phenotype [ARO:3004301]				
+		ARO:3004302	Susceptible antimicrobial phenotype [ARO:3004302]				
+		ARO:3004304	Susceptible dose dependent antimicrobial phenotype [ARO:3004304]				
