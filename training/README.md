@@ -1,4 +1,4 @@
-# 🧩 Training Materials
+# Training Materials
 
 This directory contains resources for \*\*training, workshops, and hands-on learning\*\* related to the data specification development process.  
 
@@ -8,7 +8,7 @@ It includes published materials, fictional scenarios for applied exercises, and 
 
 ---
 
-## 🧭 Purpose
+## Purpose
 
 The training section complements the main repository by:
 
@@ -18,7 +18,7 @@ The training section complements the main repository by:
 
 ---
 
-## 🗂️ Structure Overview
+## Structure Overview
 
 | **Folder** | **Purpose** | **Example Contents** |
 |-------------|--------------|----------------------|
@@ -26,7 +26,7 @@ The training section complements the main repository by:
 | [`/workshops/`](./workshops) | Ready-to-use packages for organized events, including agendas, slide decks, exercises, and participant materials. | PHA4GE Con 2025 content, facilitator guides, participant handbook |
 
 ---
-## 🧠 How to Use
+## How to Use
 
 1. **Start with the Scenarios**  
 Use the guided scenario to simulate the data specification process — from scoping to needs assessment.
@@ -38,9 +38,9 @@ The `/workshops/` folder includes agendas, slide decks, and facilitator/particip
 Dive into the research and real-world examples that inspired this framework.
 
 ---
-### 🧾 License
+### License
 
-All training materials are provided under the \[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+🧾 All training materials are provided under the \[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 
 Please attribute to *CIDGOH – Centre for Infectious Disease Genomics and One Health* when reusing or adapting.
 
