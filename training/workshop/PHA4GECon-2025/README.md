@@ -1,0 +1,26 @@
+# PHA4GECon Workshop – Developing and Implementing Data Standards
+
+## Oveview
+This hands-on workshop introduces the end-to-end process of data standard development, from defining scope and needs, to selecting ontology terms, to implementing a working schema. Participants will use an example scenario and curated templates to practice designing structured, interoperable data specifications.
+
+**Purpose:** To guide participants through the principles and practical steps of developing a data standard, following the *10 Simple Rules for Developing a Data Specification*.
+
+**Structure:**  
+The workshop builds upon material developed for the FSCI course, incorporating selected exercises in the **morning Part 2** session.  
+The remaining sessions follow the *10 Simple Rules* framework, focusing on:
+- conducting a **needs assessment** for a mock scenario,  
+- a **curation exercise** applying schema design and ontology mapping, and  
+- encouraging **implementation and testing** of the developed standard.
+
+
+**Audience:** Researchers, data managers, and public health professionals involved in developing or implementing standards for infectious disease response.
+**Duration:** One day (interactive lectures + hands-on exercises).
+
+**Folder contents**
+- `agenda.pdf` – outline and timings.  
+- `slides/` – presentation decks for each session.  
+- `materials/` – facilitator and participant resources, including exercises.  
+- `evaluation/` – feedback forms and summary templates.
+
+This workshop bridges theory and practice—participants leave with a structured understanding of how to scope, design, implement, and test a contextual data specification.
+
