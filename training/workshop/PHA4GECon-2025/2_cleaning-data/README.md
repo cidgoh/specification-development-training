@@ -18,7 +18,9 @@ By the end of this exercise, participants will be able to:
 | File                                        | Description                                                                                    |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | **PHA4GECon_Standardise your dataset.xlsx** | Main exercise file containing the *dirty dataset*, *cleaning* and *curation* worksheets.       |
-| **README.md**                               | This file. Overview and instructions for facilitators and participants.                        |
+| **PHA4GECon_Standardising your terms.pdf** | An instruction document for the data cleaning and harmonisation exercise |
+|**PHA4GE-schema.xsls** | An example schema for a PHA4GE specification  |
+| **README.md** | This file. Overview and instructions for facilitators and participants.|
 
 ## Exercise Overview
 ### Part 1 – Prepare Terms for Curation
