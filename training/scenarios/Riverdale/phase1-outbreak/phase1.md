@@ -1,4 +1,4 @@
-# Phase 1 : Outbreak - A mysterious illness in riverdale
+# Phase 1 : Outbreak - A mysterious illness in Riverdale
 
 &#x1F4CD; *February 28, 2025 - Riverdale General Hospital, Newlandia*
 

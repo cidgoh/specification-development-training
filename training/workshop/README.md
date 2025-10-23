@@ -19,9 +19,9 @@ These workshops are designed to:
 
 | **Folder** | **Contents** | **Purpose** |
 |-------------|--------------|-------------|
-|FSCI 2022||A course developed by Rhiannon Cameron, Damion Dooley, Anoosha Sehar,Emma Griffiths, William Hsiao, Charlie Barclay, Nithu John for the Force 11 Scholarly Communication Institute(FSCI)2022. Last Update:July2022|
+|FSCI 2022||A course developed by Rhiannon Cameron, Damion Dooley, Anoosha Sehar, Emma Griffiths, William Hsiao, Charlie Barclay, Nithu John for the Force 11 Scholarly Communication Institute (FSCI) 2022. Last Update:July2022|
 |CBW IDE 2024||A course developed by Charlie Barclay, Emma Griffiths, Rhiannon Cameron, William Hsiao for the Canadian Bioinformatics Workshop: Infectious Disease Genomic Epidemiology|
-|PHA4GECon 2025||Acourse developed by Charlie Barclay, Emma Griffiths and Rhiannon Cameron for the PHA4GE Pre-conference Workshop: Developing Data Standards|
+|PHA4GECon 2025||A course developed by Charlie Barclay, Emma Griffiths and Rhiannon Cameron for the PHA4GE Pre-conference Workshop: Developing Data Standards|
 
 ---
 
