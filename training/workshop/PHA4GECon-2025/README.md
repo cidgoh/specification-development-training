@@ -9,11 +9,13 @@ This hands-on workshop introduces the end-to-end process of data standard develo
 The workshop builds upon material developed for the FSCI course, incorporating selected exercises in the **morning Part 2** session.  
 The remaining sessions follow the *10 Simple Rules* framework, focusing on:
 - conducting a **needs assessment** for a mock scenario,  
-- a **curation exercise** applying schema design and ontology mapping, and  
-- encouraging **implementation and testing** of the developed standard.
+- a **ebi ols exercise** to identify appropriate ontology terms,
+- operationalising a specification through tooling, a **DataHarmonizer** example and
+- encouraging **implementation and testing** of the developed specification.
 
 
-**Audience:** Researchers, data managers, and public health professionals involved in developing or implementing standards for infectious disease response.
+**Audience:** Researchers, data managers, and public health professionals involved in developing or implementing standards for infectious disease response. 
+This is intended as a more itnroductory course to the practicalities of developing a consensus-based specification.
 **Duration:** One day (interactive lectures + hands-on exercises).
 
 **Folder contents**
