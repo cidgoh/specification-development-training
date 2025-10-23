@@ -23,11 +23,11 @@ By the end of this exercise, participants will be able to:
 ## Exercise Overview
 ### Part 1 – Prepare Terms for Curation
 
-- Open the Original Data tab in the Excel file.
-- Extract all unique terms under Environmental site and Anatomical part.
-- Identify duplicates, typos, inconsistent capitalisation, and unclear values.
+- Download the `Standardise your dataset.xlsx` from the repository.
+- Open the *Original Data* tab in the Excel file.
+- You will see a sumber of inconsistencies in the dataset. It is good practise to pull out all the unique values (this has been done for you)
+- Got to *Part 1* tab and identify duplicates, typos, inconsistent capitalisation, and unclear values.
 - Harmonise and record a clean, single label for each unique concept.
-- Isolate any missing or null values (e.g., “unknown”, “not recorded”).
 
 💡 See “Tips” box in instructions for guidance on grouping and conceptual thinking.
 
@@ -35,7 +35,6 @@ By the end of this exercise, participants will be able to:
 
 - Use the EBI Ontology Lookup Service (OLS) to find ontology terms matching your cleaned labels.
 - Record:
-    - Harmonized label
     - Ontology name (e.g. ENVO, OBI, UBERON)
     - Ontology ID (e.g. ENVO:00002272)
     - Definition (optional)
@@ -43,12 +42,10 @@ By the end of this exercise, participants will be able to:
 If no match exists, note “New term request needed.”
 
 ### Example Output
-| Harmonized Label           | Ontology | ID            | Example Use        |
-| -------------------------- | -------- | ------------- | ------------------ |
-| Wastewater treatment plant | ENVO     | ENVO:00002272 | Environmental site |
-| Sewer system               | ENVO     | ENVO:03501453 | Environmental site |
-| Nasopharyngeal swab        | OBI      | OBI:0002652   | Anatomical part    |
-| Oropharyngeal swab         | OBI      | OBI:0002600   | Anatomical part    |
+| Harmonized Label            | ID            | Definition     | Example Use        |
+| --------------------------  | ------------- | ------------------ | ------------------ |
+| Not Applicable | GENEPIO:0001619 | A categorical choice recorded when a measurable datum does not apply to a given context. | null value menu |
+
 
 ## Attribution
 
