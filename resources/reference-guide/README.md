@@ -1,8 +1,8 @@
 # Reference Guides
 
-Every specification should have a reference guide. This encourages uptake and minimises misuse. This folder contains a "Master Reference Guide" that lists all fields and picklists currently used acrossed PHA4GE and associated [CIDGOH](https://github.com/cidgoh) specifications. Only one instance of each field/menu is listed and does not reflect all possible user interface labels. These resources are for training purposes only.
+Every specification should have a reference guide. This encourages uptake and minimises misuse. This folder contains a "Master Reference Guide" that lists all fields and picklists currently used across PHA4GE and associated [CIDGOH](https://github.com/cidgoh) specifications. Only one instance of each field/menu is listed and does not reflect all possible user interface labels. These resources are for training purposes only.
 
-For an example of an individual specification guide, see the PHA4GE Wasterwater Specification: https://github.com/pha4ge/Wastewater_Contextual_Data_Specification/tree/main/Reference%20Guide
+For an example of an individual specification guide, see the PHA4GE Wastewater Specification: https://github.com/pha4ge/Wastewater_Contextual_Data_Specification/tree/main/Reference%20Guide
 
 ### Files
 
