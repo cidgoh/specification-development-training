@@ -14,12 +14,22 @@ In this final sessions we put a schema into practice within the DataaHaronizer. 
 - Develop the materials required for testing.
 - Recognize the importance of feedback in iterative standard improvement. 
 
+## Folder Structure
+|File|Details|
+|------|------------|
+|**PHA4GECon_Data-curation-in-DH.pdf**|Data curation exercise using the DatatHarmonizer
+|**PHA4GECon DH Getting Started - Installation.mp4**|Video for installing the DataHarmonizer|
+|**Testing and Validation**|*Subfolder* including an example testing package for the PHA4GE wastewater specification|
+
+
 ## Exercise Overview
 To practice entering and validating standardized contextual data using the PHA4GE SARS-CoV-2 template in DataHarmonizer, and to explore how validation rules and ontology picklists support data quality.
 
 1. Download the existing DataHarmonizer package at https://github.com/cidgoh/DataHarmonizer/
 2. From the template menu select PHA4GE
 3. Start curating!
+
+**Tip:** Watch the ![video](https://github.com/cidgoh/specification-development-training/blob/main/training/workshop/PHA4GECon-2025/3_implementation/PHA4GECon%20DH%20Getting%20Started%20-%20Installation%20(1).mp4) on setting up the DataHarmonizer
 
 ### Scenario
 *
