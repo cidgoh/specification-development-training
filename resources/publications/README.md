@@ -1,4 +1,4 @@
-# 📰 Publications and Preprints
+# Publications and Preprints
 
 This folder contains **publications, preprints, and documentation** that describe the methods, rationale, and outcomes of the **data specification development process**.
 
@@ -6,7 +6,7 @@ These materials provide the scientific and procedural background underpinning th
 
 ---
 
-## 📚 Purpose
+## Purpose
 
 The goal of this section is to:
 - Share open-access materials that **explain and evidence** the approaches used in this training and process framework.
@@ -15,7 +15,7 @@ The goal of this section is to:
 
 ---
 
-## 📄 Contents
+## Contents
 
 | **File / Resource** | **Description** | **Citation / Link** |
 |----------------------|-----------------|----------------------|
@@ -24,7 +24,7 @@ The goal of this section is to:
 
 ---
 
-## 🪶 Citation
+## Citation
 
 If you use or cite any of these documents, please reference:
 > *Centre for Infectious Disease Genomics and One Health (CIDGOH). Data Specification Development Framework (2025). GitHub Repository: [cidgoh/specification-development-training](https://github.com/cbarcl01/specification-development-training)*
