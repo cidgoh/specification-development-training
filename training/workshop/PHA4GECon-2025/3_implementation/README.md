@@ -32,18 +32,18 @@ To practice entering and validating standardized contextual data using the PHA4G
 **Tip:** Watch the ![video](https://github.com/cidgoh/specification-development-training/blob/main/training/workshop/PHA4GECon-2025/3_implementation/PHA4GECon%20DH%20Getting%20Started%20-%20Installation%20(1).mp4) on setting up the DataHarmonizer
 
 ### Scenario
-*
-The BCCDC Public Health Laboratory obtained a nasopharyngeal swab for diagnostic testing (sample ID Bc-12345-ab) on March 1 2023 from a symptomatic, 44 year old female that had been hospitalized in the ICU. The individual had been exhibiting a cough, fever, muscle weakness, as well as other symptoms of Acute Respiratory Distress Syndrome.
-The individual recently travelled to the United States on holiday and returned on Feb 19 2023. The sample was flagged for sequencing as part of the lab’s International travel surveillance program. The sample was sequenced on March 7 2023 using an Illumina MiSeq instrument. The raw data was processed using ncov-tools 2.3.1 as part of their bioinformatics protocol (https://github.com/jts/ncov2019-artic-nf/blob/master/README.md) and dehosted using BWA (version 0.7.17). The consensus sequence was generated using iVar 2.3.1. The sequence was uploaded to GISAID and assigned the accession number EPI_ISL_436489. Drs Tejinder Singh, Fei Hu and Joe Blogs helped to generate the sequence.
-*
+*The BCCDC Public Health Laboratory obtained a nasopharyngeal swab for diagnostic testing (sample ID Bc-12345-ab) on March 1 2023 from a symptomatic, 44 year old female that had been hospitalized in the ICU. The individual had been exhibiting a cough, fever, muscle weakness, as well as other symptoms of Acute Respiratory Distress Syndrome.
+The individual recently travelled to the United States on holiday and returned on Feb 19 2023. The sample was flagged for sequencing as part of the lab’s International travel surveillance program. The sample was sequenced on March 7 2023 using an Illumina MiSeq instrument. The raw data was processed using ncov-tools 2.3.1 as part of their bioinformatics protocol (https://github.com/jts/ncov2019-artic-nf/blob/master/README.md) and dehosted using BWA (version 0.7.17). The consensus sequence was generated using iVar 2.3.1. The sequence was uploaded to GISAID and assigned the accession number EPI_ISL_436489. Drs Tejinder Singh, Fei Hu and Joe Blogs helped to generate the sequence.*
 
-### Populate the templae
-Use dropdowns and tooltips in each section to fill out the appropriate fields.
+### Populate the template
+- Use dropdowns and tooltips in each section to fill out the appropriate fields.
+- To focus on the required and recommended fields go to `Settings` -> `Required and recommended columns`
 
 **Tip**: Read the field definitions carefully. Hover over a field name in the DH to understand what information belongs there.
 
 
 ### Validate your record
-Click Validate in the toolbar and then check any error messages in the Validation Panel.
-
-Correct any missing required fields or format errors.
+- Click Validate in the toolbar and then check any error messages in the Validation Panel.
+- Errors will be highlighted, and you can navigate through the errors by selecting `Next error`
+- Correct any missing required fields or format errors.
+- Once you have corrected the errors, select validate again.
