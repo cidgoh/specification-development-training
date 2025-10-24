@@ -1,11 +1,11 @@
-# 🎞️ Workshop Slides – PHA4GE Con 2025
+# Workshop Slides – PHA4GE Con 2025
 
 This folder contains the **slide decks** used in the **PHA4GE Con 2025 Data Specification Development Workshop**.  
 Each presentation aligns with one of the key stages of the specification development process and supports guided discussion, group exercises, and facilitator demonstrations.
 
 ---
 
-## 🧭 Purpose
+## Purpose
 
 These slides are designed to:
 - Provide **visual guidance and structure** for each workshop session  
@@ -14,13 +14,14 @@ These slides are designed to:
 
 ---
 
-## 🗂️ Folder Structure
+## Folder Structure
 
 | **File / Session** | **Description** |
 |--------------------|-----------------|
-| `Session1_Scope-and-needs-assessment.pdf` | Overview of the workshop and objectives, including an intro to the overall specification development process, scoping and needs assessment. |
-| `Session2_SchemaDevelopment.pdf` | Demonstrates how to translate findings into a preliminary schema. |
-| `Session3_Implementation.pdf` | Shows how schema elements are mapped, tested, and used in real workflows. |
+|**PHA4GE_DataStandardsDevWorkshop_Oct2025.pptx**| Overview of all the slides presented in the workshop|
+| **Session1_Scope-and-needs-assessment.pdf** | *To be added* Overview of the workshop and objectives, including an intro to the overall specification development process, scoping and needs assessment. |
+| **Session2_SchemaDevelopment.pdf** |*To be added* Demonstrates how to translate findings into a preliminary schema. |
+| **Session3_Implementation.pdf** | *To be added* Shows how schema elements are mapped, tested, and used in real workflows. |
 
 ---
 
