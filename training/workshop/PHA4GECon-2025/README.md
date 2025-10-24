@@ -6,8 +6,7 @@ This hands-on workshop introduces the end-to-end process of data standard develo
 **Purpose:** To guide participants through the principles and practical steps of developing a data standard, following the [*10 Simple Rules for Developing a Data Specification*](https://github.com/cidgoh/specification-development-training/blob/main/resources/publications/10-simple-rules-for-developing-a-data-specification.pdf).
 
 **Structure:**  
-The workshop builds upon material developed for the FSCI course, incorporating selected exercises in the **morning Part 2** session.  
-The remaining sessions follow the *10 Simple Rules* framework, focusing on:
+The workshop builds upon material developed for the FSCI course, as well as the *10 Simple Rules* framework, focusing on:
 - conducting a **needs assessment** for a mock scenario,  
 - a **ebi ols exercise** to identify appropriate ontology terms,
 - operationalising a specification through tooling, a **DataHarmonizer** example and
