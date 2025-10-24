@@ -4,7 +4,7 @@
 ## Purpose:
 This session introduces the concepts of opeationalising your specification in tooling, encouraging meaningful use and community uptake. It demonstrates how a well-defined schema can be used to curate, v alidate and export standardised contextual data, while collecting user feedback for continuous improvement.
 
-An example of a tool that uses PHA4GE standards is the [DataHarmonizer](https://github.com/cidgoh/pathogen-genomics-package). The DataHarmonizer is a spreadsheet based web application that includes validation templates for SARS-CoV-2 and Monkeypox sample contextual data, as well as draft Influenza and Wastewater specifications. Existing specification packages can be easily accessed and downloaded at the pathogen-genomics-package repository. For those interested in operationalsing their own templates in the DataHarmonizer can visit https://github.com/cidgoh/DataHarmonizer/
+An example of a tool that uses PHA4GE standards is the [DataHarmonizer](https://github.com/cidgoh/pathogen-genomics-package). The DataHarmonizer is a spreadsheet based web application that includes validation templates for SARS-CoV-2 and Monkeypox sample contextual data, as well as draft Influenza and Wastewater specifications. Existing specification packages can be easily accessed and downloaded at the pathogen-genomics-package repository https://github.com/cidgoh/pathogen-genomics-package. For those interested in operationalsing their own templates in the DataHarmonizer can visit https://github.com/cidgoh/DataHarmonizer/
 
 ## Learning objectives
 In this final sessions we put a schema into practice within the DataaHaronizer. By the end of this exercise, participants will be able to:
