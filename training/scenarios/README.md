@@ -2,7 +2,7 @@
 
 Reusable, domain-specific scenarios that underpin exercises and workshops.
 
-- **Riverdale/** – an emerging pathogen  surveillance scenario that combines clinical requirenments and environmental surveillance.
+- **Riverdale/** – an emerging pathogen  surveillance scenario that combines clinical requirements and environmental surveillance.
 - **COVID/** – a clinical sequencing scenario for pathogen data capture and ontology mapping.
 
 Each scenario includes:

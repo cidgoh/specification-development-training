@@ -1,6 +1,6 @@
 # PHA4GECon Workshop – Developing and Implementing Data Standards
 
-## Oveview
+## Overview
 This hands-on workshop introduces the end-to-end process of data standard development, from defining scope and needs, to selecting ontology terms, to implementing a working schema. Participants will use an example scenario and curated templates to practice designing structured, interoperable data specifications.
 
 **Purpose:** To guide participants through the principles and practical steps of developing a data standard, following the [*10 Simple Rules for Developing a Data Specification*](https://github.com/cidgoh/specification-development-training/blob/main/resources/publications/10-simple-rules-for-developing-a-data-specification.pdf).
